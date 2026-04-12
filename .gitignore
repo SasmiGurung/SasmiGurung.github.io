@@ -1,0 +1,21 @@
+# Ruby Gem
+*.gem
+.bundle
+Gemfile.lock
+vendor
+**/vendor/bundle
+
+# Node.js and NPM
+node_modules
+npm-debug.log*
+package-lock.json
+codekit-config.json
+
+# Jeklyll files
+.jekyll-cache
+.jekyll-metadata
+
+# Build FIles
+_site
+_site
+.sass-cache
