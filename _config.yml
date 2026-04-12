@@ -263,4 +263,4 @@ comments:
   utterances:
     theme: "github-light" # "github-dark"
     issue_term: "pathname"
-# repository: "SasmiGurung/blog-comments "
+repository: "SasmiGurung/blog-comments "
