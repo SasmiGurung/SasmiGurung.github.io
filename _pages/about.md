@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 classes: wide
 excerpt: Logging my knowledge and sharing experiences with this personal blog.
 ---
