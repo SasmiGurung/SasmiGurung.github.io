@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
 locale                   : "en-US"
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -104,9 +104,9 @@ analytics:
 # Site Author
 author:
   name             : "Sasmita Gurung"
-  avatar           : "/images/bio-photo.jpg"
+  avatar           : "/images/sasmi-bio-pic.jpeg"
   bio              : "DevOps & Cloud Engineer"
-  location         : "Ontario, Canada"
+  location         : "Canada"
   email            :
   links:
     - label: "GitHub"
@@ -152,6 +152,7 @@ exclude:
   - gulpfile.js
   - LICENSE
   - log
+  - minimal-mistakes-jekyll.gemspec
   - node_modules
   - package.json
   - package-lock.json
@@ -195,12 +196,13 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
+timezone: America/Toronto
+
+# Pagination with jekyll-paginate
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: Asia/Kathmandu
 
-
-# Plugins (previously gems:)
+## Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -263,4 +265,4 @@ comments:
   utterances:
     theme: "github-light" # "github-dark"
     issue_term: "pathname"
-repository: "SasmiGurung/blog-comments "
+repository: "SasmiGurung/blog-comments"
