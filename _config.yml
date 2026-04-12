@@ -75,21 +75,6 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
-# Social Sharing
-twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
@@ -111,18 +96,15 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: ""
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: ""
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@sasmigrg93"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-brands fa-twitter-square"
-      url: ""
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: ""
 
 # Reading Files
