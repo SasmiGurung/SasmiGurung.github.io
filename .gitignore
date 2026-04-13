@@ -15,6 +15,7 @@ codekit-config.json
 .jekyll-cache
 .jekyll-metadata
 
-# Build FIles
+# Build Ffles
 _site
 .sass-cache
+.DS_Store
