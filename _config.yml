@@ -95,7 +95,7 @@ author:
       url: "https://github.com/SasmiGurung"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: ""
+      url: "https://www.linkedin.com/in/sasmita-gurung/"
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@sasmigrg93"
@@ -105,7 +105,7 @@ footer:
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: ""
+      url: "https://www.linkedin.com/in/sasmita-gurung/"
 
 # Reading Files
 include:
