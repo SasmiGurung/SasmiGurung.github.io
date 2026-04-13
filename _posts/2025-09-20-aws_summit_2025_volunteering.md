@@ -4,7 +4,7 @@ date: 2025-09-20T08:00:30-04:00
 categories:
   - AWS Community Builders
 classes: wide
-excerpt: Being Worked On. Please Be Patience and Wait.
+excerpt: As the fall arrives, the most awaited event of the year "AWS Summit Toronto 2025" concluded on September 4, 2025
 ---
 
 ![AWS Certification](/images/blog-images/aws-summit/aws_summit_2025.jpeg)
