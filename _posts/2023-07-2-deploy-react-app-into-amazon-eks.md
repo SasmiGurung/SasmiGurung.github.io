@@ -1,6 +1,6 @@
 ---
 title: "Deploy React App into Amazon Elastic Kubernetes Service (Amazon EKS)"
-date: 2023-06-15T08:00:30-04:00
+date: 2023-07-02T06:00:45-07:00
 categories:
   - Elastic Container Service
   - Elastic Kubernetes Service
